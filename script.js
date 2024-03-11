@@ -4,6 +4,9 @@ function sayHi() {
 function workWork() {
     alert("Work");
 }
+function woW() {
+    alert("woW");
+}
 
 
 function sayBye() {
