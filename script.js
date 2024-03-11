@@ -7,4 +7,4 @@ function workWork() {
 
 function sayBye() {
     alert("Bye");
-}
+}й
